@@ -94,7 +94,7 @@ export function WeddingVenues() {
           Wedding venues
         </p>
         <h2 id="wedding-venues-heading" className="font-display text-4xl text-[#2d1d1f] sm:text-5xl">
-          Palaces of Celebration
+          Places of Celebration
         </h2>
       </header>
       <div className="grid gap-5 md:grid-cols-2 md:gap-6">
