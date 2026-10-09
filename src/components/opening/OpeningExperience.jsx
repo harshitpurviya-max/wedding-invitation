@@ -13,7 +13,7 @@ export function OpeningExperience({ isOpen, onOpen }) {
 
     const dismissal = window.setTimeout(
       () => setIsDismissed(true),
-      shouldReduceMotion ? 50 : 1800
+      shouldReduceMotion ? 50 : 2500
     );
 
     return () => window.clearTimeout(dismissal);
