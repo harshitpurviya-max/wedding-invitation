@@ -3,9 +3,9 @@ const familyInvitations = [
     label: 'BRIDE’S FAMILY',
     names: (
       <>
-        Moti Singh Rajput
+        Shri Moti Singh Rajput
         <span className="my-1 block font-hindi text-lg text-[#a17b4d]">&amp;</span>
-        Late Rekha Singh Rajput
+        Late Smt. Rekha Singh Rajput
       </>
     ),
     message:
@@ -15,9 +15,9 @@ const familyInvitations = [
     label: 'GROOM’S FAMILY',
     names: (
       <>
-        Rajesh Singh Tomar
+        Shri Rajesh Singh Tomar
         <span className="my-1 block font-hindi text-lg text-[#a17b4d]">&amp;</span>
-        Anuradha Tomar
+        Smt. Anuradha Tomar
       </>
     ),
     message:
