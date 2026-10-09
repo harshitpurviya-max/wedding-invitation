@@ -2,8 +2,8 @@ import { motion } from 'framer-motion';
 
 export function HawaMahalCurtain({ isOpen, onOpen, shouldReduceMotion }) {
   const curtainTransition = {
-    duration: shouldReduceMotion ? 0.08 : 1.05,
-    ease: [0.76, 0, 0.24, 1]
+    duration: shouldReduceMotion ? 0.08 : 1.8,
+    ease: 'easeInOut'
   };
 
   return (
